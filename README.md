@@ -7,6 +7,13 @@ This project evolved from an earlier version that solved Sudoku boards through b
 
 - Original repository: https://github.com/Claudia-Rocha-H/Sudoku-Solver-GUI-Python.git
 
+## Demo
+
+<p align="center">
+  <img src="Assets/Demo.gif" alt="Sudoku OCR Demo" width="850">
+</p>
+
+
 ## Key Features
 
 - **Improved GUI layout:** cleaner board, title, helper text, and status messages.
